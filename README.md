@@ -2,4 +2,4 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/827940585201205258)](https://discord.com/users/827940585201205258)
 
-![Jonny0181](https://github-readme-stats.vercel.app/api?username=face-hh&show_icons=true&theme=tokyonight&hide=["issues"])
+![Jonny0181](https://github-readme-stats.vercel.app/api?username=Jonny0181&show_icons=true&theme=tokyonight&hide=["issues"])
