@@ -4,5 +4,4 @@
 
 ![Jonny0181](https://github-readme-stats.vercel.app/api?username=Jonny0181&show_icons=true&theme=tokyonight&hide=["issues"])
 
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2uGOF6WIv7fLzkX4VRF6Tp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[Link to Spotify Playlist](https://open.spotify.com/playlist/2uGOF6WIv7fLzkX4VRF6Tp)
